@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "ca9b1812-8aa7-4edc-bc3e-a472c37ea495",
+  "name": "CONTROLS-TEST",
+  "symbol": "bg_controls_test",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "CONTROLS-TEST.png",
+  "autoColor": true,
+  "tileColors": ""
+}

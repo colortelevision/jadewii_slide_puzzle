@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "858acbc2-e8d5-4aaf-91b7-e0b785b8164f",
+  "name": "CONTROLS",
+  "symbol": "bg_controls",
+  "width": 18,
+  "height": 18,
+  "imageWidth": 144,
+  "imageHeight": 144,
+  "filename": "CONTROLS.png",
+  "tileColors": ""
+}

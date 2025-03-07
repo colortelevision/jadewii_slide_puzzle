@@ -1,8 +1,8 @@
 {
   "_resourceType": "settings",
-  "startSceneId": "1721e232-58c8-4ea0-b185-3156e3ef6853",
-  "startX": 12,
-  "startY": 12,
+  "startSceneId": "5506155b-19f8-4603-97a9-f559fadc1bfb",
+  "startX": 7,
+  "startY": 9,
   "startMoveSpeed": 1,
   "startAnimSpeed": 31,
   "startDirection": "down",
@@ -68,15 +68,18 @@
   "customControlsA": [
     "Alt",
     "z",
-    "j"
+    "j",
+    "Z"
   ],
   "customControlsB": [
     "Control",
     "k",
-    "x"
+    "x",
+    "X"
   ],
   "customControlsStart": [
-    "Enter"
+    "Enter",
+    " "
   ],
   "customControlsSelect": [
     "Shift"

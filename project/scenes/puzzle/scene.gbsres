@@ -2,33 +2,26 @@
   "_resourceType": "scene",
   "id": "1721e232-58c8-4ea0-b185-3156e3ef6853",
   "_index": 0,
+  "type": "TOPDOWN",
   "name": "Puzzle",
-  "backgroundId": "501571d3-de2a-4255-9138-311ddcc59bf1",
-  "tilesetId": "",
+  "symbol": "scene_1",
+  "x": 80,
+  "y": 80,
   "width": 20,
   "height": 18,
-  "type": "TOPDOWN",
+  "backgroundId": "501571d3-de2a-4255-9138-311ddcc59bf1",
+  "tilesetId": "",
   "paletteIds": [
     "",
-    null,
+    "",
     "default-sprite",
     "default-ui",
     "1549d48b-6335-4561-bb46-342d5ef13a8a"
   ],
   "spritePaletteIds": [],
-  "collisions": "",
   "autoFadeSpeed": 1,
-  "symbol": "scene_1",
-  "x": 80,
-  "y": 80,
+  "playerSpriteSheetId": "d2ff6581-9f5a-4f52-b437-82026365b0e4",
   "script": [
-    {
-      "command": "EVENT_MUSIC_PLAY",
-      "args": {
-        "musicId": "f50428ab-a084-4591-9bba-2ba10fe7b1c6"
-      },
-      "id": "87b3ebde-6ea7-41fb-8d0c-7e21221c4c2b"
-    },
     {
       "command": "EVENT_COMMENT",
       "args": {
@@ -36,6 +29,13 @@
         "__collapse": true
       },
       "id": "893b6359-81f1-4d27-b47d-20332999ec79"
+    },
+    {
+      "command": "EVENT_MUSIC_PLAY",
+      "args": {
+        "musicId": "b28473a2-6979-4366-b2c6-1336f348eed4"
+      },
+      "id": "a4eb8c68-c4b2-412c-8d0c-e9596945e2c1"
     },
     {
       "command": "FO_EVENT_SWAP_TILES_VAR",
@@ -858,7 +858,7 @@
       "command": "EVENT_GROUP",
       "args": {
         "__label": "DEBUG - Disabled for Random Shuffle",
-        "__collapse": false,
+        "__collapse": true,
         "__comment": true
       },
       "children": {
@@ -1880,7 +1880,7 @@
       "command": "EVENT_ACTOR_HIDE",
       "args": {
         "actorId": "player",
-        "__collapse": true,
+        "__collapse": false,
         "__comment": false
       },
       "id": "160ce0c1-e9fa-496d-9ecd-5f69edbe34dd"
@@ -3867,5 +3867,5 @@
   "playerHit1Script": [],
   "playerHit2Script": [],
   "playerHit3Script": [],
-  "playerSpriteSheetId": "d2ff6581-9f5a-4f52-b437-82026365b0e4"
+  "collisions": ""
 }
