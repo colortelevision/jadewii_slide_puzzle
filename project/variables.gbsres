@@ -1,0 +1,140 @@
+{
+  "_resourceType": "variables",
+  "variables": [
+    {
+      "id": "0",
+      "name": "Shuffling",
+      "symbol": "var_shuffling"
+    },
+    {
+      "id": "1",
+      "name": "Tile 1",
+      "symbol": "var_tile_1"
+    },
+    {
+      "id": "2",
+      "name": "Tile 2",
+      "symbol": "var_tile_2"
+    },
+    {
+      "id": "3",
+      "name": "Tile 3",
+      "symbol": "var_tile_3"
+    },
+    {
+      "id": "4",
+      "name": "Tile 4",
+      "symbol": "var_tile_4"
+    },
+    {
+      "id": "5",
+      "name": "Tile 5",
+      "symbol": "var_tile_5"
+    },
+    {
+      "id": "6",
+      "name": "Tile 6",
+      "symbol": "var_tile_6"
+    },
+    {
+      "id": "7",
+      "name": "Tile 7",
+      "symbol": "var_tile_7"
+    },
+    {
+      "id": "8",
+      "name": "Tile 8",
+      "symbol": "var_tile_8"
+    },
+    {
+      "id": "9",
+      "name": "Tile 9",
+      "symbol": "var_tile_9"
+    },
+    {
+      "id": "10",
+      "name": "Tile 10",
+      "symbol": "var_tile_10"
+    },
+    {
+      "id": "11",
+      "name": "Tile 11",
+      "symbol": "var_tile_11"
+    },
+    {
+      "id": "12",
+      "name": "Tile 12",
+      "symbol": "var_tile_12"
+    },
+    {
+      "id": "13",
+      "name": "Tile 13",
+      "symbol": "var_tile_13"
+    },
+    {
+      "id": "14",
+      "name": "Tile 14",
+      "symbol": "var_tile_14"
+    },
+    {
+      "id": "15",
+      "name": "Tile 15",
+      "symbol": "var_tile_15"
+    },
+    {
+      "id": "16",
+      "name": "Tile 16",
+      "symbol": "var_tile_16"
+    },
+    {
+      "id": "17",
+      "name": "Current Tile",
+      "symbol": "var_current_tile"
+    },
+    {
+      "id": "18",
+      "name": "Tile X",
+      "symbol": "var_tile_x"
+    },
+    {
+      "id": "19",
+      "name": "Tile Y",
+      "symbol": "var_tile_y"
+    },
+    {
+      "id": "20",
+      "name": "Swap Tile X",
+      "symbol": "var_swap_tile_x"
+    },
+    {
+      "id": "21",
+      "name": "Swap Tile Y",
+      "symbol": "var_swap_tile_y"
+    },
+    {
+      "id": "22",
+      "name": "Move To Swap Tile X",
+      "symbol": "var_move_to_swap_tile_x"
+    },
+    {
+      "id": "23",
+      "name": "Move To Swap Tile Y",
+      "symbol": "var_move_to_swap_tile_y"
+    },
+    {
+      "id": "24",
+      "name": "Menu Option",
+      "symbol": "var_menu_option"
+    },
+    {
+      "id": "25",
+      "name": "Random Value",
+      "symbol": "var_random_value"
+    },
+    {
+      "id": "26",
+      "name": "Last Tile 1",
+      "symbol": "var_last_tile_1"
+    }
+  ]
+}

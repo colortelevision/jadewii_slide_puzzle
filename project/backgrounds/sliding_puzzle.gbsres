@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "501571d3-de2a-4255-9138-311ddcc59bf1",
+  "name": "sliding_puzzle",
+  "symbol": "bg_sliding_puzzle",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "sliding_puzzle.png",
+  "tileColors": "0455+07a+04a+07!008+07!04a+07!008+07!04a+07!008+07!04a+07!008+07!04a+07!008+07!04a+07!008+07!04a+07!008+07!04a+07!008+07!04a+07a+0455+",
+  "autoColor": false
+}

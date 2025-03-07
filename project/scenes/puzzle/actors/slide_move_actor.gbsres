@@ -1,0 +1,48 @@
+{
+  "_resourceType": "actor",
+  "id": "3de127cf-b2bb-496a-8415-f4c44b7aca5b",
+  "name": "Slide Move Actor",
+  "frame": 0,
+  "animate": false,
+  "spriteSheetId": "d3ea9111-8915-425e-bd32-d1affabcc2ca",
+  "prefabId": "",
+  "direction": "down",
+  "moveSpeed": 3,
+  "animSpeed": 255,
+  "paletteId": "",
+  "isPinned": false,
+  "persistent": false,
+  "collisionGroup": "",
+  "prefabScriptOverrides": {},
+  "symbol": "actor_0",
+  "script": [],
+  "startScript": [
+    {
+      "command": "EVENT_ACTOR_SET_FRAME",
+      "args": {
+        "actorId": "$self$",
+        "frame": {
+          "type": "number",
+          "value": 15
+        },
+        "__comment": true
+      },
+      "id": "7e083772-ee7b-44d6-9d6c-11d9467d7f84"
+    },
+    {
+      "command": "EVENT_ACTOR_HIDE",
+      "args": {
+        "actorId": "$self$",
+        "__collapse": true
+      },
+      "id": "6507d26a-0e69-4e7b-abfa-287cfaa104de"
+    }
+  ],
+  "updateScript": [],
+  "hit1Script": [],
+  "hit2Script": [],
+  "hit3Script": [],
+  "x": 18,
+  "y": 17,
+  "_index": 0
+}
